@@ -45,3 +45,6 @@ end
 
 # Mauricio: This is a gem that I installed because of Stuk.io first course
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+
+# Mauricio: This gem installs web fonts and stylesheets
+gem "font-awesome-rails"
