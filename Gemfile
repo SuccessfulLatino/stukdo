@@ -48,3 +48,7 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 
 # Mauricio: This gem installs web fonts and stylesheets
 gem "font-awesome-rails"
+
+# Mauricio: This gem allows Ruby to create simple forms
+gem 'simple_form'
+
