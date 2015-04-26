@@ -52,3 +52,7 @@ gem "font-awesome-rails"
 # Mauricio: This gem allows Ruby to create simple forms
 gem 'simple_form'
 
+# Mauricio: This gem enables us to get people to sign-up for the website.
+gem 'devise'
+
+
