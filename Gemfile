@@ -55,4 +55,6 @@ gem 'simple_form'
 # Mauricio: This gem enables us to get people to sign-up for the website.
 gem 'devise'
 
+# Mauricio: This gem detects web links and makes them smart links.
+gem "auto_html"
 
